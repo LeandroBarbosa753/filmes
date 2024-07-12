@@ -16,7 +16,6 @@ A API oferece uma solução centralizada para gerenciar um catálogo de filmes, 
 - Um banco de dados PostgreSQL.
 - npm (Node Package Manager) para gerenciar as dependências.
 - Docker (opcional, para facilitar a configuração do PostgreSQL).
-- 
 
 # Back-end
 
